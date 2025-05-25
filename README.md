@@ -63,7 +63,6 @@ GND                GND
    ```bash
    git clone https://github.com/mehrdadmb2/Arduino-RFID-Relay-Control.git
    cd Arduino-RFID-Relay-Control
-````
 
 2. **Open in Arduino IDE:**
 
